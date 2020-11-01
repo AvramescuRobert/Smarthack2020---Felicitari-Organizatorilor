@@ -1,1 +1,2 @@
-# Smarthack2020---Felicitari-Organizatorilor
+# Smarthack2020
+

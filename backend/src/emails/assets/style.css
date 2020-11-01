@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #212529;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+    color: #d42feb;
+    text-decoration: none;
+}
+
+.linkContainer {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
